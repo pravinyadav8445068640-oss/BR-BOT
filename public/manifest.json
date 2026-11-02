@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "BR BOT - AI Crypto Options Trading Platform",
+  "short_name": "BR BOT",
+  "description": "Professional AI-powered crypto options trading platform featuring strategy building, real-time paper trading, backtesting, AI Strategy Doctor, Delta & CoinSwitch connectors.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#0a0f1d",
+  "background_color": "#020617",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

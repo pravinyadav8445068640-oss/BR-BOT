@@ -1,0 +1,6 @@
+{
+  "name": "BR BOT - AI Crypto Options Trading Platform",
+  "description": "Professional AI-powered crypto options trading platform featuring strategy building, real-time paper trading, backtesting, AI Strategy Doctor, Delta & CoinSwitch connectors, risk management, and bilingual Hindi/English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
